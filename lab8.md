@@ -1,4 +1,4 @@
-#Data Visualization with ggplot2  
+# Data Visualization with ggplot2  
 ![1.png](./1/l1.png)
 ![2.png](./1/l2.png)
 ![3.png](./1/l3.png)
@@ -7,7 +7,7 @@
 ![6.png](./1/l6.png)
 ![7.png](./1/l7.png)
 ![8.png](./1/l8.png)
-#Multiple and Logistic Regression 
+# Multiple and Logistic Regression 
 ![1.png](./1/s1.png)
 ![2.png](./1/s2.png)
 ![3.png](./1/s3.png)
@@ -16,5 +16,5 @@
 ![6.png](./1/s6.png)
 ![7.png](./1/s7.png)
 ![8.png](./1/s8.png)
-#Link
+# Link
 https://rcos.io/projects/jarbus/multiagent-particle-envs/profile
